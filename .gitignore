@@ -1,0 +1,6 @@
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Tailwind CSS configuration file
+tailwind.config.js
+
